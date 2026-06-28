@@ -4,7 +4,7 @@
 
 Meu nome é Pedro Cunha, tenho 25 anos e sou natural do Piauí. Atualmente, estou cursando Sistemas da Computação na UESPI.
 
-## 👨‍💻 Sobre mim
+## ✅ Sobre mim
 Desenvolvedor de software focado em criar soluções web funcionais e eficientes. Apaixonado por transformar ideias em código utilizando Python, HTML, CSS e JavaScript.
 
 ## 🛠 Tecnologias
