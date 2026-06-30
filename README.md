@@ -1,16 +1,55 @@
-# 👨🏾‍💻 Pedro Cunha
+# Olá! Eu sou Pedro Cunha 👋
 
-**`Desenvolvedor FullStack`**
+Desenvolvedor Full Stack em formação, apaixonado por tecnologia e pela criação de soluções que resolvem problemas reais.
 
-Meu nome é Pedro Cunha, tenho 25 anos e sou natural do Piauí. Atualmente, estou cursando Sistemas da Computação na UESPI.
+Atualmente estou estudando **Python** como principal linguagem e utilizando essa base para evoluir em desenvolvimento web, banco de dados e arquitetura de sistemas.
 
-## ✅ Sobre mim
-Desenvolvedor de software focado em criar soluções web funcionais e eficientes. Apaixonado por transformar ideias em código utilizando Python, HTML, CSS e JavaScript.
+## 🚀 Tecnologias
 
-## 🛠 Tecnologias
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+- Python
+- Flask
+- SQLite
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
 
-<br/><br/>
+## 📚 Atualmente estudando
+
+- APIs REST
+- SQL
+- Arquitetura Backend
+- Boas práticas de desenvolvimento
+- Estruturação de projetos
+
+## 💻 Projeto em destaque
+
+### 🦷 OdontoHub
+
+Sistema para gerenciamento de clínicas odontológicas.
+
+Funcionalidades:
+
+- Cadastro de pacientes
+- Pesquisa de pacientes
+- Agenda de consultas
+- Dashboard em tempo real
+- Odontograma interativo
+- Registro de procedimentos
+- Histórico de atendimentos
+
+Tecnologias:
+
+Python • Flask • SQLite • HTML • CSS • JavaScript
+
+## 📫 Contato
+
+WhatsApp:
+(98)97002-9251
+
+Email:
+pedrocunhadev25@gmail.com
+
+LinkedIn:
+www.linkedin.com/in/dev-pedrocunha
